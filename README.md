@@ -1,2 +1,0 @@
-# testerannie.github.io
-blog
